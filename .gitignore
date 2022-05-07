@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/dcfvm/.vs/dcfvm/v16/Browse.VC.opendb
