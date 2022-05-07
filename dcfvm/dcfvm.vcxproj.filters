@@ -19,4 +19,21 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="post.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fvm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
